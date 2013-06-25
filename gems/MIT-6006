@@ -1,0 +1,6 @@
+# 
+
+ * Fibonacci as an exponential form ( Must have been derived from Z-Transform , i highly doubt! ): 
+```
+F(h) = floor(((1.618)^h)/sqrt(5))
+```
